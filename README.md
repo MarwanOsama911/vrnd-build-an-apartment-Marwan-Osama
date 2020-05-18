@@ -1,4 +1,4 @@
-# vrnd-build-an-apartment-Marwan-Osama
+# Setup
 *Unity version : Unity LTS Release 2017.4.4       
 *GVR SDK Version : GVR v1.100.1
 # Videos
