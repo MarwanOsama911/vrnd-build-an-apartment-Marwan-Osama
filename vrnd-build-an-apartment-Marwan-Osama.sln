@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-build-an-apartment-Marwan-Osama", "Assembly-CSharp.csproj", "{41EF1AE2-E96C-3B40-91CC-2749825B8A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-build-an-apartment-Marwan-Osama", "Assembly-CSharp-Editor.csproj", "{B3ED3658-ED1D-CF1E-3BAE-4681EA2B561E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41EF1AE2-E96C-3B40-91CC-2749825B8A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EF1AE2-E96C-3B40-91CC-2749825B8A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EF1AE2-E96C-3B40-91CC-2749825B8A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EF1AE2-E96C-3B40-91CC-2749825B8A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3ED3658-ED1D-CF1E-3BAE-4681EA2B561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ED3658-ED1D-CF1E-3BAE-4681EA2B561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ED3658-ED1D-CF1E-3BAE-4681EA2B561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ED3658-ED1D-CF1E-3BAE-4681EA2B561E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
